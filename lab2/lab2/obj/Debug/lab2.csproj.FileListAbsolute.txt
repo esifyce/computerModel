@@ -1,0 +1,10 @@
+D:\belyav\lab2\lab2\bin\Debug\lab2.exe.config
+D:\belyav\lab2\lab2\bin\Debug\lab2.exe
+D:\belyav\lab2\lab2\bin\Debug\lab2.pdb
+D:\belyav\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\belyav\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\belyav\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\belyav\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\belyav\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\belyav\lab2\lab2\obj\Debug\lab2.exe
+D:\belyav\lab2\lab2\obj\Debug\lab2.pdb
